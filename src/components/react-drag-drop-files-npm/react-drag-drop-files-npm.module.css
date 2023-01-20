@@ -1,0 +1,15 @@
+.ReactDragDropFilesNpm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.checkboxContainer {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 10px;
+    padding: 10px;
+}
